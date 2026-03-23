@@ -1,0 +1,26 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Obsidian system folder
+.obsidian/cache
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/backups/
+.obsidian/plugins/obsidian-git/ # If you use the plugin, it manages itself
+.obsidian/typings/
+
+# Plugins: auto-generated or large runtime data
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/main.js.map
+.obsidian/plugins/*/node_modules/
+
+# Temp files
+*.tmp
+~$*
+
+# Mobile app metadata
+.obsidian/mobile
