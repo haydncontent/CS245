@@ -4,7 +4,7 @@
 	- composed of (nested) "chunks"
 	- label (4 bytes) + size (4 bytes) + data (size bytes)
 	- data portion of a chunk can contain other chunks
-![[Pasted image 20260121150903.png]]
+![[wav diagram.png]]
 - **WAVE** file is a **RIFF** file with a specific format
 
 ```

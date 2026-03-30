@@ -28,5 +28,3 @@ P_v = d sin (2pi(f_v)t)
 ~= 13 cents
 
 ```
-
-

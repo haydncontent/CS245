@@ -28,7 +28,7 @@ $$ f = \text{LFO frequency (optional parameter)}$$
 
 #### ADSR Envelope 
 **Attack - Decay - Sustain - Release**
-![[Pasted image 20260302153905.png|452]]
+![[adrs env.png|452]]
 
 **ADSR**
 - common envelope used in digital audio
